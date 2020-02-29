@@ -1,0 +1,2 @@
+Character: Besides using git commands in linux, we can also download github desktop to 
+work with a team and update projects.
