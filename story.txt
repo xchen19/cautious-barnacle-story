@@ -1,2 +1,1 @@
-Character: Besides using git commands in linux, we can also download github desktop to 
-work with a team and update projects.
+John is a famous actor in US and he is also good at cooking.
